@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BitLogin</string>
+    <string name="action_settings">Settings</string>
+    <string name="wellcome">bI+Id BitLogin CryptoID identity client version 0.1.0</string>
+    <string name="wellcome2">pI+Iq Read the barcode on the site  to register or to log in</string>
+    <string name="donate">Donations </string>
+
+</resources>
